@@ -155,6 +155,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [Learning Aurelia](https://www.packtpub.com/web-development/learning-aurelia) by Manuel Guilbault (Dec 2016, 292 pages)
 * [Beginning Aurelia](https://leanpub.com/beginning-of-aurelia) by Behzad Abbasi (behzad888) (July 2016, 218 pages)
 * [Aurelia App Amazement](https://www.gitbook.com/book/kristianmandrup/aurelia-app-amazement/details) By Kristian Mandrup (2016)
+* [The Aurelia 2 Book](https://leanpub.com/theaurelia2book) By Dwayne Charrington (141 pages)
 
 ##### Aurelia Articles
 
